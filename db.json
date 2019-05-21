@@ -95,12 +95,8 @@
       "img_url": "http://books.google.com/books/content?id=TmocdXScYFEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 7,
-          "username": "steuber"
-        },
-        {
-          "id": 4,
-          "username": "batz"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -111,12 +107,8 @@
       "img_url": "http://books.google.com/books/content?id=nSEVSnb8wpUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 3,
-          "username": "marvin"
-        },
-        {
-          "id": 5,
-          "username": "king"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -127,16 +119,8 @@
       "img_url": "http://books.google.com/books/content?id=dZs0DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 9,
-          "username": "nikolaus"
-        },
-        {
-          "id": 3,
-          "username": "marvin"
-        },
-        {
-          "id": 2,
-          "username": "auer"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -147,16 +131,8 @@
       "img_url": "http://books.google.com/books/content?id=hmbACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "goodwin"
-        },
-        {
-          "id": 6,
-          "username": "steuber"
-        },
-        {
-          "id": 5,
-          "username": "king"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -167,12 +143,8 @@
       "img_url": "http://books.google.com/books/content?id=dK5Gx6vbV2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "goodwin"
-        },
-        {
-          "id": 10,
-          "username": "macejkovic"
+          "id": 1,
+          "username": "pouros"
         }
       ]
     }
